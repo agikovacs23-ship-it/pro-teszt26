@@ -2,3 +2,4 @@
 # módosítás Githubon
 # módosítás asztali gépről
 # hibajegy doksi feltöltése
+#hibakod 
